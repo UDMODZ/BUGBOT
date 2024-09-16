@@ -12,7 +12,7 @@
 </p>
 
 **BUGBOT** is an user bot for WhatsApp that allowing you to get done so many tasks. This project mainly focusing on make user's work easy. This project coded with Javascript and Docker. And using **[Baileys]** as the WA Web API. Developer or Team members are not responsible for your usage mistakes and not using wisely. Also, you have no authorities do any modifications to this project. Enjoy!🎈
-<p align="left"><a href="https://github.com/UDMODZ/BUGBOT/edit/main/README.md#support-udmodz-">° Stay updated with us</a></p>
+<p align="left">° <a href="https://github.com/UDMODZ/BUGBOT/edit/main/README.md#support-udmodz-">Stay updated with us</a></p>
 <p align="left">° Dont forget to leave a 🌟 star</p>
 
 **Run on Github codespace** (Recomended)
