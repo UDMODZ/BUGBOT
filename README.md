@@ -37,6 +37,7 @@
 
 **Run on Termux**
 
+<p align="left">° Run one by one</p>
 
 ```
       $ apt update
