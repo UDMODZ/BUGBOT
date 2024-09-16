@@ -1,4 +1,4 @@
-# BUGBOT _A Javascript WhatsApp User Bot_
+# BUGBOT :- _A Javascript WhatsApp User Bot_
 *A WhatsApp based third party application.*
 
 
@@ -15,7 +15,7 @@
 <p align="left"><a href="https://github.com/UDMODZ/BUGBOT/edit/main/README.md#support-udmodz-">° Stay updated with us</a></p>
 <p align="left">° Dont forget to leave a 🌟 star</p>
 
-**Run on Github codespace**
+**Run on Github codespace** (Recomended)
  
 <p align="left">° Fork this repo from
 <a href="https://github.com/UDMODZ/BUGBOT/fork"> here </a></p>
