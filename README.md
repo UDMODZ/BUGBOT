@@ -70,6 +70,14 @@
 ```
 
 
+  <p align="left">° it will ask for your number.enter your number with international form like 94704638406</p>
+<p align="left">° After that it will give you a Eight digit code.go to whatsapp->three dots-> linked devices->link a new device->link with phone number insted . now type the eight digit code and wait till linking finishes.
+<p align="left">° You did it 😇 type .menu to get menu</p>
+<p align="left">° if you want help contact 
+<a href="https://wa.me/94704638406"> me</a>
+</br>
+
+
 **Run on Replit**
 
       comming soon
@@ -79,13 +87,6 @@
 
       comming soon
 
-
-  <p align="left">° it will ask for your number.enter your number with international form like 94704638406</p>
-<p align="left">° After that it will give you a Eight digit code.go to whatsapp->three dots-> linked devices->link a new device->link with phone number insted . now type the eight digit code and wait till linking finishes.
-<p align="left">° You did it 😇 type .menu to get menu</p>
-<p align="left">° if you want help contact 
-<a href="https://wa.me/94704638406"> me</a>
-</br>
   
 <h2 align="center">SUPPORT UDMODZ 😘😘😘</h2>
 
