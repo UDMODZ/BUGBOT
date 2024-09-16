@@ -10,7 +10,7 @@ global.wlcmm = []
 global.limitawal = {
     premium: "Infinity",
     free: 20
-}
+}  
 
 global.mess = {
     success: '𝗗𝗼𝗻𝗲 𝗕𝗿𝗼',
